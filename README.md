@@ -26,31 +26,32 @@ Each assignment demonstrates my understanding of various machine learning topics
 
 1. **Assignment 1:**
    - Files: `Assignment1.docx`, `Assignment_1.ipynb`
-   - Description: Includes a detailed analysis and coding implementation for [Topic/Objective].
+   - Description: Introduction to Machine Learning and Data Preprocessing.
 
 2. **Assignment 2:**
    - Files: `Assignment2.docx`, `Assignment_2.ipynb`
-   - Description: Focuses on [Topic/Objective], with practical examples and explanations.
+   - Description: Linear Regression and Model Performance Metrics.
 
 3. **Assignment 3:**
    - Files: `Assignment3.docx`, `Assignment_3.ipynb`
-   - Description: Covers [Topic/Objective] with theoretical and applied approaches.
+   - Description: Logistic Regression for Classification Problems.
 
 4. **Assignment 4:**
    - Files: `Assignment4.docx`, `Assignment_4.ipynb`
-   - Description: Analyzes [Topic/Objective] using datasets and code.
+   - Description: Clustering Algorithms (K-Means and Hierarchical Clustering).
 
 5. **Assignment 5:**
    - Files: `Assignment_5.ipynb`, `Mall_Customers.csv`
-   - Description: Explores customer data for segmentation and insights.
+   - Description: Customer Segmentation Using Mall Customer Dataset.
 
 6. **Assignment 6:**
    - Files: `Assignment_6.ipynb`
-   - Description: Implements [Topic/Objective] in a hands-on manner.
+   - Description: Dimensionality Reduction Techniques (Principal Component Analysis - PCA).
 
 7. **Assignment 7:**
    - Files: `Assignment 7.ipynb`, `Admission_Predict.csv`, `Admission_Predict_Ver1.1.csv`
-   - Description: Examines admission prediction with multiple datasets and algorithms.
+   - Description: Admission Prediction Using Regression Models.
+     
 
 ## Technologies Used
 
