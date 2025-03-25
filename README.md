@@ -74,7 +74,7 @@ Each assignment demonstrates my understanding of various machine learning topics
 
 ## Acknowledgements
 
-I would like to acknowledge my professors and peers for their guidance and support in completing these assignments. Special thanks to [Your College/Institution] for providing valuable resources and learning opportunities.
+I would like to acknowledge my professors and peers for their guidance and support in completing these assignments. Special thanks to **Anuradha Yenkikar Mam** And **Vishwakarma Institute of Information Technology (VIIT)** for providing valuable resources and learning opportunities.
 
 ---
 
